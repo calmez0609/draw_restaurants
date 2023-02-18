@@ -10,15 +10,6 @@ My first react app
 
 - [Live Demo](https://calmez0609.github.io/draw_restaurants/#/)
 
-## 待辦抽籤系統
-
-- 新增 / 修改 / 刪除待辦事項
-- 隨機抽出待辦事項
-- 顯示所有待辦事項
-- 分類顯示已為成 / 未完成待辦事項
-- 刪除所有待辦事項
-- 離線使用應用
-- PWA
 
 ![](https://github.com/cybershota/imagebed/blob/main/todofun_mobile.gif)
 
