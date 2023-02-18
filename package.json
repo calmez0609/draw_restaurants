@@ -1,5 +1,6 @@
 {
-  "name": "todofun",
+  "name": "draw_straws",
+  "homepage": "https://calmnez0609.github.io/draw_straws",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +30,6 @@
     "workbox-strategies": "^5.1.3",
     "workbox-streams": "^5.1.3"
   },
-  "homepage": "https://cybershota.github.io/todofun",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
