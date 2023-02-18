@@ -61,12 +61,12 @@ export const EditTodo = ({ isVisible, setShowEditTodo, data, setTodo }) => {
         >
           <motion.div variants={animeForm} initial='hidden' animate='visible' exit='hidden'>
             <TodoFormUI>
-              <TitleInputUI value={value.title} placeholder='標題' onChange={handleTitleValue} />
+              <TitleInputUI value={value.title} placeholder='餐廳名稱' onChange={handleTitleValue} />
               <ContentInputUI
                 value={value.content}
                 onChange={handleContentValue}
                 rows='5'
-                placeholder='什麼有趣的事...'
+                placeholder='餐廳介紹'
               />
               <ActionBtnGroup>
                 <DeleteTodoBtn
