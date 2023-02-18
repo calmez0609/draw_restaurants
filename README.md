@@ -10,3 +10,28 @@ My first react app
 
 - [Live Demo](https://calmez0609.github.io/draw_restaurants/#/)
 
+## 待辦抽籤系統
+
+- 新增 / 修改 / 刪除待辦事項
+- 隨機抽出待辦事項
+- 顯示所有待辦事項
+- 分類顯示已為成 / 未完成待辦事項
+- 刪除所有待辦事項
+- 離線使用應用
+- PWA
+
+![](https://github.com/cybershota/imagebed/blob/main/todofun_mobile.gif)
+
+## 使用技術
+
+- 前端
+  - React, React Hooks 使用 Create React App PWA Template
+  - React Router 設定路由
+  - Styled component 製作 UI 元件
+  - Framer motion 製作 UI 動畫
+  - Dexie.js 操作 IndexedDB 資料庫
+  - gh-pages 部署於 Github page
+- 設計
+  - Framer 設計初始可互動設計元件
+  - Figma 設計圖樣
+
